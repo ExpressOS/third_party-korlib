@@ -1,0 +1,12 @@
+*#
+*.pidb
+*.userprefs
+Binaries
+*test-results/
+*obj/
+*.suo
+*~
+*.testsettings
+*.vsmdi
+Source/TestResults/
+bin/
